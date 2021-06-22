@@ -11,10 +11,13 @@ Présents :
 
 * **Support material**
 
-https://docs.google.com/presentation/d/1xM9pphsTgoUb6qLZd1gxGPIvsDNC9IDf8mF558x3YFs/edit?usp=sharing
+Slides : https://docs.google.com/presentation/d/1xM9pphsTgoUb6qLZd1gxGPIvsDNC9IDf8mF558x3YFs/edit?usp=sharing
 
-https://docs.google.com/document/d/1DIzTY6iUK3lkCnnfKD2i9h4xYiuccJfcoDhauA0UnyQ/edit?usp=sharing
+General guidelines qualityWP4_TLSE_V1 : https://docs.google.com/document/d/1DIzTY6iUK3lkCnnfKD2i9h4xYiuccJfcoDhauA0UnyQ/edit?usp=sharing
 
+Table of achieved/plan results :  https://drive.google.com/file/d/10Aw3KxgTOGkQfXPfIFx9T633G8QXtgQH/view?usp=sharing
+
+LA-CoNGA physics mid-term report guidelines : https://drive.google.com/drive/folders/1oDkoxnJgjKNFVerLHS4DCYeV4SbZoYgX?usp=sharing
 
 * **Decision making**
 
